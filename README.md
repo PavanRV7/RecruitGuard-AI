@@ -4,7 +4,7 @@ RecruitGuard AI is a full-stack web app for job-scam detection, application trac
 
 ## 🎥 Demo Video
 🔗 Watch the full demo here:  
-https://drive.google.com/drive/folders/1etCZ9GiR1fcUP7TfayBvMpI9IbGthSNL?usp=sharing
+https://drive.google.com/drive/folders/1MOA9Qhv0bzY9ncqjEVkzItXCpiPSRT2L?usp=drive_link
 
 ## Project Structure
 
