@@ -1,11 +1,11 @@
-# Echo Desk
+# RecruitGuard AI
 
-Echo Desk is a full-stack web app for job-scam detection, application tracking, and interview preparation.
+RecruitGuard AI is a full-stack web app for job-scam detection, application tracking, and interview preparation.
 
 ## Project Structure
 
 ```text
-Echo Desk/
+RecruitGuard AI/
 ├── client/                 # Frontend (React + Vite)
 │   └── src/
 ├── server/                 # Backend API (Express + TypeScript)
